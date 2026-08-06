@@ -1,6 +1,6 @@
-# MetaDFMP
+# Meta DFM
 
-Modeling, training and testing of DFM intelligence with artificial intelligence — the research the rest of the architecture defers its final shape to.
+The engineering and functional-modeling framework of Drayker: where the protocols underneath DFM are formalized, and where the cognitive swarms that apply them are designed. A research agent built on the method it is meant to improve.
 
 **Documentation: [metadfmp.drayker.org](https://metadfmp.drayker.org)** — published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
