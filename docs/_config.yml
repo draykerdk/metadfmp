@@ -2,16 +2,22 @@
 # Source: https://github.com/draykerdk/drayker-theme
 remote_theme: draykerdk/drayker-theme
 
+# Set explicitly: GitHub Pages derives site.url without TLS when the certificate is
+# terminated upstream, which leaves absolute URLs in meta tags on http. Everything the
+# sitemap and the social cards emit has to be the canonical https address.
+url: "https://metadfmp.drayker.org"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-optional-front-matter
+  - jekyll-sitemap
 
-title: Meta DFM
-description: The engineering and functional-modeling framework of Drayker — the DFM protocols formalized, and the cognitive swarms that apply them.
+title: "Meta DFM"
+description: "The engineering and functional-modeling framework of Drayker — the DFM protocols formalized, and the cognitive swarms that apply them."
 
-dk_kicker: Engineering and research
-dk_subdomain: metadfmp.drayker.org
-dk_repo: https://github.com/draykerdk/metadfmp
+dk_kicker: "Engineering and research"
+dk_subdomain: "metadfmp.drayker.org"
+dk_repo: "https://github.com/draykerdk/metadfmp"
 
 defaults:
   - scope:
