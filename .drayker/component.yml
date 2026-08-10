@@ -1,0 +1,31 @@
+schema_version: 1
+component:
+  id: metadfmp
+  name: Meta DFM
+  layer: PROTOCOL
+  artifact_type: research-proposal
+  problem: Formalize and improve the engineering and functional-modeling foundations beneath DFM.
+  scope:
+    - Public research direction for modeling DFM itself.
+    - Proposed foundations for future cognitive-swarm research.
+  non_scope:
+    - A running autonomous research agent.
+    - A complete formal framework for DFM.
+  dependencies:
+    - dfmp
+  implementation:
+    level: none
+    scope: The repository states a research direction but does not publish the proposed framework or an implementation.
+    evidence:
+      - type: document
+        ref: docs/README.md
+  risks:
+    - Agent language may imply software that does not exist.
+    - Circular dependencies with DFMP require careful specification.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/metadfmp/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/metadfmp
+    path: docs/README.md
+  last_reviewed: "2026-08-10"
