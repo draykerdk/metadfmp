@@ -2,6 +2,12 @@ Meta DFM is the engineering and functional-modeling framework of Drayker: where 
 
 It is not a protocol standing beside DFM. It is DFM turned on its own engineering — a research agent built on the method it is meant to improve.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Meta DFM is the method turned on itself: the protocols formalized, and the research that improves them.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## What it covers
 
 - **Mathematical and logical protocols** — the foundation of the DFM language and its modules.
@@ -21,7 +27,7 @@ Opening it means publishing the unglamorous part: what exactly is modelled, agai
 
 ## Contributing
 
-Open an issue with a proposal — even a rough one is more than is published today. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+Open an issue with a proposal — even a rough one is more than is published today. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
 Related: [`dfmp`](https://dfmp.drayker.org) (the method and its proposal process) · [`bsdk`](https://bsdk.drayker.org) · [`dk`](https://dk.drayker.org)
 
