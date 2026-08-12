@@ -2,6 +2,8 @@ Meta DFM is the engineering and functional-modeling framework of Drayker: where 
 
 It is not a protocol standing beside DFM. It is DFM turned on its own engineering. A research agent built on the method it is meant to improve.
 
+In full, it is a system of intelligence: an evolutionary research and development super-agent, designed to create better versions of the system itself — low-level engineering, ultra-efficient and secure. It begins as a system of agents, the cognitive swarms that apply the method, and evolves toward the own system that is under research: the instrument by which the ecosystem improves the instrument it was built with.
+
 ## Why this exists
 
 Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Meta DFM is the method turned on itself: the protocols formalized, and the research that improves them.
