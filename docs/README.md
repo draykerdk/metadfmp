@@ -13,11 +13,11 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 - **Mathematical and logical protocols**. The foundation of the DFM language and its modules.
 - **The engineering swarm**. Coordination of the teams and artificial agents working on the technical architecture.
 
-## Why this layer exists
+## How it fits the whole
 
 Read the other Drayker repositories and you will keep meeting the same sentence: the motions illustrate what should be done, but *the definitive architecture will be structured around optimal solutions proposed and developed with metaprogramming intelligent algorithms and research organized through DFMP*.
 
-That sentence points here. [BSDK](https://bsdk.drayker.org), [Dk](https://dk.drayker.org) and [Dk Network](https://dknetwork.drayker.org) all defer their final shape to research that is supposed to happen in this repository.
+That sentence points here. [DFM](https://dfmp.drayker.org) is the method in use today; Meta DFM is the method formalized and turned on its own engineering. [BSDK](https://bsdk.drayker.org), [Dk](https://dk.drayker.org) and [Dk Network](https://dknetwork.drayker.org) all defer their final shape to research that is supposed to happen in this repository — the formalization is what lets machines help search for better solutions, and what keeps the whole system's claims checkable. It is the layer where the ecosystem improves the instrument it was built with.
 
 ## State of this documentation
 
