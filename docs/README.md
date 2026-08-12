@@ -21,6 +21,8 @@ Read the other Drayker repositories and you will keep meeting the same sentence:
 
 That sentence points here. [DFM](https://dfmp.drayker.org) is the method in use today; Meta DFM is the method formalized and turned on its own engineering. [BSDK](https://bsdk.drayker.org), [Dk](https://dk.drayker.org) and [Dk Network](https://dknetwork.drayker.org) all defer their final shape to research that is supposed to happen in this repository — the formalization is what lets machines help search for better solutions, and what keeps the whole system's claims checkable. It is the layer where the ecosystem improves the instrument it was built with.
 
+The first great product of this research is likely the **super equation** that forms BSDK: the base structure requires a predictive modeling that research suggests may be beyond human capacity alone — which is exactly the kind of work an evolutionary research agent is for. The equation is open research, and the agent that will help find it is the point of this repository.
+
 ## State of this documentation
 
 **One line of intent is published, and nothing else.** This is the emptiest layer in the ecosystem, and it is documented as such rather than dressed up. The alternative would be to let several other repositories keep pointing at work nobody outside can see.
