@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Meta DFM"
-description: "The engineering and functional-modeling framework of Drayker — the DFM protocols formalized, and the cognitive swarms that apply them."
+description: "Study and improve the method through explicit models. Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models."
 
 dk_kicker: "Engineering and research"
 dk_subdomain: "metadfmp.drayker.org"

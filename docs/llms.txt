@@ -1,6 +1,6 @@
 # Meta DFM
 
-> The engineering and functional-modeling framework of Drayker — the DFM protocols formalized, and the cognitive swarms that apply them.
+> Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models.
 
 Meta DFM is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

@@ -1,6 +1,6 @@
 # Meta DFM
 
-The engineering and functional-modeling framework of Drayker: where the protocols underneath DFM are formalized, and where the cognitive swarms that apply them are designed. A research agent built on the method it is meant to improve.
+Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models. The method should remain open to correction as evidence accumulates and as the scale of collaboration changes.
 
 **Documentation: [metadfmp.drayker.org](https://metadfmp.drayker.org)**. Published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
