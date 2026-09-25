@@ -29,11 +29,11 @@ That sentence points here. [DFM](https://dfmp.drayker.org) is the method in use 
 
 The first great product of this research is likely the **super equation** that forms BSDK: the base structure requires a predictive modeling that research suggests may be beyond human capacity alone — which is exactly the kind of work an evolutionary research agent is for. The equation is open research, and the agent that will help find it is the point of this repository.
 
-## Where the book places it
+## Its place on the path to Drayker 1.0
 
-*Do animal à superinteligência* gives Meta DFM a precise place on the path to Drayker 1.0 (chapters 46–48). Meta DFM applies research and modelling to the engineering itself: the system uses what it learns to look for better versions of its methods, components and architecture. After the base architecture is closed and the prototypes are built and tested, resource stages feed Meta DFM — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. A better method of weighting makes every following weighting better, and those weightings produce the data for the next method.
+Meta DFM applies research and modelling to the engineering itself: the system uses what it learns to look for better versions of its methods, components and architecture. After the base architecture is closed and the prototypes are built and tested, resource stages feed Meta DFM — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. A better method of weighting makes every following weighting better, and those weightings produce the data for the next method.
 
-The same chapters set its limits. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the members' constitutional process, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it.
+Its limits are set as clearly. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the members' constitutional process, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it.
 
 ## State of this documentation
 
