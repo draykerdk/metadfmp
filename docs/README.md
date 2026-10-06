@@ -39,7 +39,7 @@ The first great product of this research is likely the **super equation** that f
 
 Meta DFM applies research and modelling to the engineering itself: the system uses what it learns to look for better versions of its methods, components and architecture. After the base architecture is closed and the prototypes are built and tested, resource stages feed Meta DFM — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. A better method of weighting makes every following weighting better, and those weightings produce the data for the next method.
 
-Its limits are set as clearly. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the members' constitutional process, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it.
+Its limits are set as clearly. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the constitutional procedure, built with Dk Global and within the kernel, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it.
 
 ## State of this documentation
 
@@ -55,4 +55,4 @@ Related: [`dfmp`](https://dfmp.drayker.org) (the method and its proposal process
 
 ---
 
-Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Drayker is a non-profit organization, and its work is primarily voluntary.
+Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Drayker is non-profit, and its work is primarily voluntary.

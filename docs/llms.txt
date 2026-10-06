@@ -2,7 +2,7 @@
 
 > Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models.
 
-Meta DFM is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Meta DFM is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
