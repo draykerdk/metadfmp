@@ -1,6 +1,6 @@
 # Meta DFM
 
-Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models. The method should remain open to correction as evidence accumulates and as the scale of collaboration changes.
+Meta DFM is the evolutionary application of DFM to Drayker's own engineering: research and modelling that look for better versions of the method, the components and the architecture. It is designed as an evolutionary research and development super-agent — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. The method should remain open to correction as evidence accumulates and as the scale of collaboration changes.
 
 **Documentation: [metadfmp.drayker.org](https://metadfmp.drayker.org)**. Published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
