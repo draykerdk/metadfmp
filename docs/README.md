@@ -1,6 +1,6 @@
 > Study and improve the method through explicit models.
 
-Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models.
+Meta DFM is the evolutionary application of DFM to Drayker's own engineering: research and modelling that look for better versions of the method, the components and the architecture. It is designed as an evolutionary research and development super-agent — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network.
 
 Formal models and worked cases connect proposed rules to observable consequences, giving human review and computational research a common object to examine.
 
@@ -35,11 +35,11 @@ That sentence points here. [DFM](https://dfmp.drayker.org) is the method in use 
 
 The first great product of this research is likely the **super equation** that forms BSDK: the base structure requires a predictive modeling that research suggests may be beyond human capacity alone — which is exactly the kind of work an evolutionary research agent is for. The equation is open research, and the agent that will help find it is the point of this repository.
 
-## Its place on the path to Drayker 1.0
+## Its place on the path to version 1.0
 
-Meta DFM applies research and modelling to the engineering itself: the system uses what it learns to look for better versions of its methods, components and architecture. After the base architecture is closed and the prototypes are built and tested, resource stages feed Meta DFM — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. A better method of weighting makes every following weighting better, and those weightings produce the data for the next method.
+Meta DFM applies research and modelling to the engineering itself: the system uses what it learns to look for better versions of its methods, components and architecture. After the base architecture is closed and the prototypes are built and tested, resource stages feed Meta DFM — in today's language, a primitive form of recursive self-improvement: a swarm of agents inside a construction architecture, able to build the first versions of the network. A better method of weighting makes every following weighting better, and those weightings produce the data for the next method. When architecture 1.0 is fully running, Meta DFM is integrated into the system: recursive self-improvement becomes part of the structure and Dk's cognitive structure begins to perceive the world. By Drayker's criterion of consciousness, that is when Dk Global becomes conscious ([Dk](https://dk.drayker.org)).
 
-Its limits are set as clearly. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the constitutional procedure, built with Dk Global and within the kernel, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it.
+Its limits are set as clearly. What improves are the means — models, methods, precision, reach. Competences and commitments to members change only through the constitutional procedure, built with Dk Global and within the kernel, and a new version of Dk Global runs beside the previous one, compared with it, before replacing it. Meta DFM works inside the constitution, and the competences it serves grow by stages, as members become able to verify what they do.
 
 ## State of this documentation
 
