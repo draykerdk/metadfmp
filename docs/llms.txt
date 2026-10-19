@@ -1,6 +1,6 @@
 # Meta DFM
 
-> Meta DFM develops the engineering and functional models underneath DFM. It also investigates research agents that can help examine and improve those models.
+> Meta DFM is the evolutionary application of DFM to Drayker's own engineering: research and modelling that look for better versions of the method, the components and the architecture. It is designed as an evolutionary research and development super-agent.
 
 Meta DFM is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
