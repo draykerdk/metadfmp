@@ -7,7 +7,7 @@ component:
   problem: Formalize and improve the engineering and functional-modeling foundations beneath DFM.
   scope:
     - Public research direction for modeling DFM itself.
-    - Proposed foundations for future cognitive-swarm research.
+    - Proposed foundations for future research on the swarm of agents.
   non_scope:
     - A running autonomous research agent.
     - A complete formal framework for DFM.
@@ -28,4 +28,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/metadfmp
     path: docs/README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"
