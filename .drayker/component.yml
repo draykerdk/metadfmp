@@ -15,7 +15,7 @@ component:
     - dfmp
   implementation:
     level: none
-    scope: The repository states a research direction but does not publish the proposed framework or an implementation.
+    scope: The repository publishes the proposed research architecture (metacognitive reasoner and solver/prover loop); formal specifications and executable benchmarks remain open work.
     evidence:
       - type: document
         ref: docs/README.md
@@ -28,4 +28,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/metadfmp
     path: docs/README.md
-  last_reviewed: "2026-10-21"
+  last_reviewed: "2026-11-18"
