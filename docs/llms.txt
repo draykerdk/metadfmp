@@ -7,6 +7,7 @@ Meta DFM is a public component of Drayker. Drayker is the supersystem; Dk is its
 ## Canonical resources
 
 - [Component site](https://metadfmp.drayker.org/)
+- [Chain of trust specification (C0-C4, D0-D7, G0-G3)](https://metadfmp.drayker.org/chain-of-trust)
 - [Owning public repository](https://github.com/draykerdk/metadfmp)
 - [Drayker ecosystem map](https://drayker.org/eco/)
 - [Dknowledge](https://dknowledge.drayker.org/)

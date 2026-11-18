@@ -15,10 +15,12 @@ component:
     - dfmp
   implementation:
     level: none
-    scope: The repository publishes the proposed research architecture (metacognitive reasoner and solver/prover loop); formal specifications and executable benchmarks remain open work.
+    scope: The repository publishes the proposed research architecture (metacognitive reasoner and solver/prover loop) and the chain-of-trust verification specification (C0-C4, D0-D7, G0-G3); formalized DFMP-000 notation and executable benchmarks remain open work.
     evidence:
       - type: document
         ref: docs/README.md
+      - type: document
+        ref: docs/chain-of-trust.md
   risks:
     - Agent language may imply software that does not exist.
     - Circular dependencies with DFMP require careful specification.

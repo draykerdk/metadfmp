@@ -47,7 +47,12 @@ Its limits are set as clearly. What improves are the means — models, methods, 
 
 ## State of this documentation
 
-This page publishes the proposed research architecture: the metacognitive reasoner, the adversarial network of solvers and provers, degrees of rigour, simulated proof with plans B and C, reinforcement learning into [Dknowledge](https://dknowledge.drayker.org), and its integration path toward version 1.0. What remains unpublished is the formal specification itself: the mathematical notation, the formalized DFM protocols (`DFMP-000`), the trust-chain rules, and executable benchmarks.
+This repository publishes both the high-level proposed research architecture and the formal verification specification:
+
+- **Core architecture (above):** the metacognitive reasoner, the adversarial network of solvers and provers, degrees of rigour, simulated proof with plans B and C, reinforcement learning into [Dknowledge](https://dknowledge.drayker.org), and its integration path toward version 1.0.
+- **[Chain of trust (`C0–C4`), verification ladder (`S`, `D0–D7`), and rigor grades (`G0–G3`)](./chain-of-trust.md):** computed trust levels (never self-declared), per-use branching (`own(P)` vs `use(P, D)`), weakest-link propagation (`effective(P)`), fail-fast verification scheduling, parallel solutions with contingency plans B and C, grounded refutation without majority voting, and open graph-auditing mechanisms.
+
+What remains open work is the mathematical formalization of DFM protocols (`DFMP-000`), executable benchmark suites, and running multi-agent prototypes against public verification cases.
 
 Opening it means publishing the unglamorous part: what exactly is modelled, against which requirements, with what method, and how a result is judged good enough to change an architecture decision. None of that needs a model to run. It needs to be written down and put where people can argue with it.
 
